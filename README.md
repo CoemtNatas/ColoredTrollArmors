@@ -17,6 +17,6 @@ Please see the individual templates for more information on how to use each one.
 - [SkillManager](https://github.com/blaxxun-boop/SkillManager)
 - [LocationManager](https://github.com/blaxxun-boop/LocationManager)
 
-## Original Repos from Me
+## Original Repos from Azumatt
 - [PieceManager](https://github.com/AzumattDev/PieceManager)
 - [StatusEffectManager](https://github.com/AzumattDev/StatusEffectManager)
